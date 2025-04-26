@@ -1,6 +1,6 @@
 module github.com/prometheus/prom2json
 
-go 1.24
+go 1.22.7
 
 toolchain go1.24.2
 
